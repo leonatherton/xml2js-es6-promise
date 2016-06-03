@@ -1,0 +1,21 @@
+{
+  "name": "xml2js-es6-promise",
+  "version": "1.0.0",
+  "description": "ES6 promise wrapper for xml2js",
+  "main": "xml2js-es6-promise.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonatherton/xml2js-es6-promise.git"
+  },
+  "keywords": [
+    "xml2js",
+    "es6",
+    "promise"
+  ],
+  "author": "Leon Atherton <leon@leonatherton.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonatherton/xml2js-es6-promise/issues"
+  },
+  "homepage": "https://github.com/leonatherton/xml2js-es6-promise#readme"
+}
