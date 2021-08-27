@@ -1,3 +1,7 @@
+# Deprecated
+
+Use `xml2js.parseStringPromise(data /*, options */)` from the [xml2js package](https://www.npmjs.com/package/xml2js#promise-usage) instead.
+
 # xml2js-es6-promise
 
 ES6 promise wrapper for xml2js
